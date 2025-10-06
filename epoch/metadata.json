@@ -1,0 +1,5 @@
+{
+  "name": "ScrAI",
+  "description": "An AI-driven simulation sandbox where users design unique scenarios and guide outcomes by issuing natural language commands, which an advanced AI interprets and resolves within a dynamic, emergent model.",
+  "requestFramePermissions": []
+}
